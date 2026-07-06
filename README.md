@@ -6,7 +6,6 @@ Tableau dashboard analyzing IGN game reviews: scores, genres, platforms, release
 **Tool:** Tableau Public  
 **Author:** Reyad Aly  
 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/IGN_Dashboard_RA/Dashboard1)
-
 **Dataset:** [IGN Games Dataset — Kaggle](https://www.kaggle.com/datasets/joebeachcapital/ign-games)
 
 
